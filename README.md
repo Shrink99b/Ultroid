@@ -39,7 +39,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+[![Deploy](https://dashboard.heroku.com/new-app?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https://github.com/Shrink99b/Ultroid
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
