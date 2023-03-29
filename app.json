@@ -47,9 +47,10 @@
             "required": false
         }
     },
-      "addons": [{
-    "plan": "heroku-postgresql",
-    "options": {
-      "version": "12"
+    "formation": {
+        "ultroid": {
+            "quantity": 1,
+            "size": "eco"
+        }
     }
-  }],
+}
